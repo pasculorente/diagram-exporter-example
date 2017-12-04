@@ -7,7 +7,7 @@ The diagram exporter is a service offered by Reactome to obtain the diagram imag
 
 The analysis service allows users to send data and visualize it on top of the diagram. To see more about how to perform an analysis go to https://reactome.org/dev/analysis.
 
-## Install
+## Install and run
 To run the notebook, you need first to install jupyter http://jupyter.org/install.html.
 
 Then clone the project in your disk
